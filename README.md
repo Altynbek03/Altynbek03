@@ -11,8 +11,8 @@
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altynbek-umbetbayev)
-[![Telegram](https://img.shields.io/badge/Telegram-%23007BFF.svg?logo=telegram&logoColor=white)](https://t.me/your-telegram-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%23007BFF.svg?logo=telegram&logoColor=white)](https://t.me/Umbetbayev03)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:erasyl.altinbek@gmail.com)
 
 
 # 💻Tech Stack
