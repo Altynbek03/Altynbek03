@@ -3,12 +3,15 @@
 </div>
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/your-link/">
+  <a href="https://www.linkedin.com/in/altynbek-umbetbayev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="mailto:erasyl.altinbek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://t.me/Umbetbayev03">
+      <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
 </div>
 
 <div align="center">
