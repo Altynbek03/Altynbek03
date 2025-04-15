@@ -1,13 +1,18 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Altynbek+%F0%9F%91%8B;Java+Developer+%E2%9C%8C%EF%B8%8F;Based+in+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF)
+
 # 💫About Me :
 🚀 Java Developer with extensive experience building enterprise applications using Spring Boot and Hibernate.
+
 🔧 Currently focused on optimizing microservices architecture and handling high-load systems.
+
 ☁️ Passionate about cloud solutions like AWS, Docker, and Kubernetes for smooth and efficient deployments.
+
 🏆 Fun fact: I love collecting coding stickers and turning challenges into creative projects.
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altynbek-umbetbayev) 
-[![Telegram](https://img.shields.io/badge/Telegram-%23007BFF.svg?logo=telegram&logoColor=white)](https://t.me/Umbetbayev03)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:erasyl.altinbek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altynbek-umbetbayev)
+[![Telegram](https://img.shields.io/badge/Telegram-%23007BFF.svg?logo=telegram&logoColor=white)](https://t.me/your-telegram-username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 
 # 💻Tech Stack
