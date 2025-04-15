@@ -1,27 +1,21 @@
-<div align="center">
-  <h1>👋 Привет, я Алексей!</h1>
-  <h3>🚀 Full-Stack разработчик | Python & React</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&color=36BCF7&width=435&lines=Автоматизирую+всё,+что+можно+%F0%9F%94%A7">
-</div>
+# 💫About Me :
+🚀 Java Developer with extensive experience building enterprise applications using Spring Boot and Hibernate.
+🔧 Currently focused on optimizing microservices architecture and handling high-load systems.
+☁️ Passionate about cloud solutions like AWS, Docker, and Kubernetes for smooth and efficient deployments.
+🏆 Fun fact: I love collecting coding stickers and turning challenges into creative projects.
+
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/altynbek-umbetbayev) 
+
+# 💻Tech Stack
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Altynbek03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Altynbek03&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Altynbek03&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Altynbek03&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-## 🛠 Мой стек
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React">
-
----
-
-## 🚀 Проекты
-### 🔧 Аналитическая платформа
-**Стек:** Python, Pandas, Grafana  
-[![Демо](https://img.shields.io/badge/Демо-запустить-blue)](https://ваш-демо)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexey-dev&theme=dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexey-dev&theme=dark">
-</div>
-
-![Snake Animation](https://github.com/alexey-dev/alexey-dev/blob/output/github-contribution-grid-snake.svg)
+[![](https://visitcount.itsvg.in/api?id=Altynbek03&icon=0&color=0)](https://visitcount.itsvg.in)
