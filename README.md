@@ -31,8 +31,6 @@
 
 ## 📊 Активность
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivan-petrov&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-petrov&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Altynbek03&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altynbek03&layout=compact&theme=dark" />
 </div>
-
-![Snake Animation](https://github.com/ivan-petrov/ivan-petrov/blob/output/github-contribution-grid-snake.svg)
