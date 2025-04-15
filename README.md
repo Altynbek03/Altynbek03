@@ -48,9 +48,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&lines=Добро+пожаловать+в+мой+мир+кодирования" alt="Typing SVG">
 </div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Altynbek02&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Contribution Snake](https://github.com/your-username/your-repo/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Altynbek03/School_study_API/output/github-contribution-grid-snake.svg)
 
 ---
 
