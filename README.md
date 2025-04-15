@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Altynbek+%F0%9F%91%8B;Java+Developer+%E2%9C%8C%EF%B8%8F;Based+in+Kazakhstan+%F0%9F%87%B0%F0%9F%87%BF)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Altynbek+Java+Developer%F0%9F%91%8B)
 
 # 💫About Me :
 🚀 Java Developer with extensive experience building enterprise applications using Spring Boot and Hibernate.
