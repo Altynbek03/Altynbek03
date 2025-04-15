@@ -1,7 +1,10 @@
 # 💫About Me :
 🚀 Java Developer with extensive experience building enterprise applications using Spring Boot and Hibernate.
+
 🔧 Currently focused on optimizing microservices architecture and handling high-load systems.
+
 ☁️ Passionate about cloud solutions like AWS, Docker, and Kubernetes for smooth and efficient deployments.
+
 🏆 Fun fact: I love collecting coding stickers and turning challenges into creative projects.
 
 ## 🌐Socials
